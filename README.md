@@ -1,3 +1,5 @@
+## this app is available on https://rm-searcher.netlify.app
+
 # app
 
 ## Project setup
